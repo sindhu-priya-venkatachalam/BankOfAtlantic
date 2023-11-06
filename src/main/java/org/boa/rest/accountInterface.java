@@ -1,2 +1,4 @@
-package org.boa.rest;public interface accountInterface {
+package org.boa.rest;
+
+public interface accountInterface {
 }

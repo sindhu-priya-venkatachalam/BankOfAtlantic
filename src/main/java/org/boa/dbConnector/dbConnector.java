@@ -1,2 +1,4 @@
-package org.boa.dbConnector;public class dbConnector {
+package org.boa.dbConnector;
+
+public class dbConnector {
 }
