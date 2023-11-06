@@ -1,2 +1,4 @@
-package org.boa.rest;public class accountImpl {
+package org.boa.rest;
+
+public class accountImpl implements accountInterface{
 }
